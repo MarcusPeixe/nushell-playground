@@ -8,6 +8,8 @@ This is a snow simulation running in the terminal, in ~45 lines. It
 simulates each snowflake individually, then renders all of them. This
 version is quite slow.
 
+![Snow simulation screenshot](snow-screenshot.png)
+
 ## snow2.nu
 
 This one is another, slightly more optimised version of the snow simulation.
